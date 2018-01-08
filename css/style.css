@@ -1,0 +1,41 @@
+body{
+		margin:0;
+		padding:0;
+}
+
+.container{
+	height: 400px;
+    background: gray;
+    width: 1000px;
+	margin-left: auto;
+    margin-right: auto;
+	
+}
+
+.left{
+	height: 400px;
+    background: red;
+    width: 50%;
+	float:left;
+	
+}
+
+.right{
+	height: 400px;
+    background: green;
+    width: 50%;
+	float:left;
+	
+}
+table{    
+	width: 100%;
+    font-size: 16px;
+    text-align: center;
+	border-collapse: collapse;
+}
+
+tr{
+}
+
+td{    border: 1px solid;
+}
